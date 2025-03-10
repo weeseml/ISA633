@@ -1,0 +1,10 @@
+Desk_Location,Lighting_Condition,Noise_Level,Productivity_Score
+Near Window,Bright,No Noise,77.5
+Near Window,Medium,Soft Music,79.3
+Near Window,Dim,White Noise,68.2
+Center of Room,Bright,Soft Music,87.6
+Center of Room,Medium,White Noise,63.8
+Center of Room,Dim,No Noise,73.8
+Near Entrance,Bright,White Noise,72.9
+Near Entrance,Medium,No Noise,78.8
+Near Entrance,Dim,Soft Music,77.7
