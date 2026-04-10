@@ -1,0 +1,9 @@
+Region,Hour,Sequence,Treatment,Avg_Delivery_Time
+East,1,AB,A,32
+East,2,AB,B,28
+East,3,AB,A,31
+East,4,AB,B,27
+West,1,BA,B,29
+West,2,BA,A,33
+West,3,BA,B,28
+West,4,BA,A,34
